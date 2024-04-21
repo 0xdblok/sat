@@ -45,6 +45,9 @@ export default function Tokenomics() {
                 width={460}
                 height={460}
               />{" "}
+              <p className="md:text-base">
+                0xDc49590964ba35e559d5eB129F53c53e2ac7E558
+              </p>
             </a>
           </div>
         </div>
