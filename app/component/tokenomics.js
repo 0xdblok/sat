@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import token from "../asset/token.png";
 import supply from "../asset/supply.png";
+import add from "../asset/add.png";
 export default function Tokenomics() {
   return (
     <div className="pb-8">
@@ -36,9 +37,13 @@ export default function Tokenomics() {
           </p>
           <div className="px-4 border-2 border-black py-6 bg-[#FF914D] container mx-auto">
             {" "}
-            <p className="md:text-base text-xs text-center  break-words px-12 md:px-0">
-              0xDc49...E558
-            </p>
+            <Image
+              className=""
+              src={add}
+              alt=""
+              width={460}
+              height={460}
+            />{" "}
           </div>
         </div>
       </div>
