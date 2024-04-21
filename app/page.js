@@ -10,7 +10,7 @@ import bleu from "./asset/bleu.png";
 import blank from "./asset/blank.png";
 export default function Home() {
   return (
-    <div className="mx-auto container  lg:px-40 ">
+    <div className="md:mx-auto md:container  lg:px-40 ">
       <Nav />
       <Hero />
       <div className="w-full">
