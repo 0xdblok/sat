@@ -33,17 +33,17 @@ export default function Hero() {
                 height={16}
               />
             </a>
-            <a>
+            <a href="https://www.dextools.io/app/en/base/pair-explorer/0x78059df62026b78252c9304a642308eda82daa7a?t=1713715697808">
               {" "}
               <Image
-                className=""
+                className="https://dexscreener.com/base/0x78059DF62026B78252C9304a642308EDA82DAa7a"
                 src="https://fatherofbitcoin.xyz/images/c39a291ab3f71adbe7daf4fcb4e93347.svg"
                 alt=""
                 width={16}
                 height={16}
               />
             </a>
-            <a>
+            <a href="https://dexscreener.com/base/0x78059DF62026B78252C9304a642308EDA82DAa7a">
               {" "}
               <Image className="" src={dex} alt="" width={18} height={18} />
             </a>
