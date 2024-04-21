@@ -19,7 +19,9 @@ export default function All() {
             the people, by the people.
           </p>
           <div className="flex pt-2 justify-center">
-            <a className="px-3 text-xs md:text-base py-2 font-semibold bg-[#FF914D] rounded-2xl text-white">
+            <a
+              href=""
+              className="px-3 text-xs md:text-base py-2 font-semibold bg-[#FF914D] rounded-2xl text-white">
               {" "}
               CHART
             </a>

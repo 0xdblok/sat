@@ -15,7 +15,9 @@ export default function Matrix() {
             the matrix.
           </p>
           <div className="flex justify-center pt-4">
-            <a className="px-3 md:text-base text-xs py-2 font-semibold bg-black rounded-2xl text-white">
+            <a
+              href=""
+              className="px-3 md:text-base text-xs py-2 font-semibold bg-black rounded-2xl text-white">
               {" "}
               BUY $BITCOIN
             </a>
