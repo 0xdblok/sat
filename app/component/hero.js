@@ -13,10 +13,10 @@ export default function Hero() {
         </div>
         <div className="text-center flex flex-col justify-center items-center  w-1/2">
           <div className="flex gap-4 justify-center">
-            <a href="https://x.com/nakamotobase">
+            <a href="">
               {" "}
               <Image
-                className="https://x.com/nakamotobase"
+                className=""
                 src="https://fatherofbitcoin.xyz/images/13e466c6f162b9abfc3152e736a27f2e.svg"
                 alt=""
                 width={16}
@@ -33,17 +33,17 @@ export default function Hero() {
                 height={16}
               />
             </a>
-            <a href="https://www.dextools.io/app/en/base/pair-explorer/0x78059df62026b78252c9304a642308eda82daa7a?t=1713716372681">
+            <a href="">
               {" "}
               <Image
-                className="https://dexscreener.com/base/0x78059DF62026B78252C9304a642308EDA82DAa7a"
+                className=""
                 src="https://fatherofbitcoin.xyz/images/c39a291ab3f71adbe7daf4fcb4e93347.svg"
                 alt=""
                 width={16}
                 height={16}
               />
             </a>
-            <a href="https://dexscreener.com/base/0x78059DF62026B78252C9304a642308EDA82DAa7a">
+            <a href="">
               {" "}
               <Image className="" src={dex} alt="" width={18} height={18} />
             </a>

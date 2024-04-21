@@ -3,6 +3,7 @@ import Image from "next/image";
 import token from "../asset/token.png";
 import supply from "../asset/supply.png";
 import add from "../asset/add.png";
+import addd from "../asset/addd.png";
 export default function Tokenomics() {
   return (
     <div className="pb-8">
@@ -39,7 +40,7 @@ export default function Tokenomics() {
             {" "}
             <Image
               className=""
-              src={add}
+              src={addd}
               alt=""
               width={460}
               height={460}
