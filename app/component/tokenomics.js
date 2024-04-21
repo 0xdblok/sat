@@ -34,21 +34,11 @@ export default function Tokenomics() {
           <p className="pt-8 md:text-base md:pt-16 text-xs font-semibold">
             contract address
           </p>
-          <div>
+          <div className="px-4 py-6 bg-[#FF914D] container mx-auto">
             {" "}
-            <a>
-              {" "}
-              <Image
-                className=""
-                src="https://fatherofbitcoin.xyz/images/6cb80af631df3dc86e73955762785521.svg"
-                alt=""
-                width={460}
-                height={460}
-              />{" "}
-              <p className="md:text-base">
-                0xDc49590964ba35e559d5eB129F53c53e2ac7E558
-              </p>
-            </a>
+            <p className="md:text-base text-xs text-center  break-words px-12 md:px-0">
+              0xDc49590964ba35e559d5eB129F53c53e2ac7E558
+            </p>
           </div>
         </div>
       </div>
