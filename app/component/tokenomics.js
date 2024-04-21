@@ -35,7 +35,7 @@ export default function Tokenomics() {
           <p className="pt-8 md:text-base md:pt-16 text-xs font-semibold">
             contract address
           </p>
-          <div className="px-4 border-2 border-black py-6 bg-[#FF914D] container mx-auto">
+          <div className="">
             {" "}
             <Image
               className=""
