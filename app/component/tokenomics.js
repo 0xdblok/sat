@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import token from "../asset/token.png";
+import supply from "../asset/supply.png";
 export default function Tokenomics() {
   return (
     <div>
@@ -24,7 +25,7 @@ export default function Tokenomics() {
             {" "}
             <Image
               className=""
-              src="https://fatherofbitcoin.xyz/images/6cb80af631df3dc86e73955762785521.svg"
+              src={supply}
               alt=""
               width={460}
               height={460}
