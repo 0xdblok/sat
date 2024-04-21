@@ -33,7 +33,7 @@ export default function Hero() {
                 height={16}
               />
             </a>
-            <a href="https://www.dextools.io/app/en/base/pair-explorer/0x78059df62026b78252c9304a642308eda82daa7a?t=1713715697808">
+            <a href="https://www.dextools.io/app/en/base/pair-explorer/0x78059df62026b78252c9304a642308eda82daa7a?t=1713716372681">
               {" "}
               <Image
                 className="https://dexscreener.com/base/0x78059DF62026B78252C9304a642308EDA82DAa7a"
