@@ -37,7 +37,7 @@ export default function Tokenomics() {
           <div className="px-4 border-2 border-black py-6 bg-[#FF914D] container mx-auto">
             {" "}
             <p className="md:text-base text-xs text-center  break-words px-12 md:px-0">
-              0xDc49590964ba35e559d5eB129F53c53e2ac7E558
+              git
             </p>
           </div>
         </div>
