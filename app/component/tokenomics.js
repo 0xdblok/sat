@@ -4,7 +4,7 @@ import token from "../asset/token.png";
 import supply from "../asset/supply.png";
 export default function Tokenomics() {
   return (
-    <div>
+    <div className="pb-8">
       <h1 className="text-center text-2xl  font-bold pt-8 md:text-4xl ">
         TOKENOMICS
       </h1>{" "}
@@ -34,7 +34,7 @@ export default function Tokenomics() {
           <p className="pt-8 md:text-base md:pt-16 text-xs font-semibold">
             contract address
           </p>
-          <div className="px-4 py-6 bg-[#FF914D] container mx-auto">
+          <div className="px-4 border-2 border-black py-6 bg-[#FF914D] container mx-auto">
             {" "}
             <p className="md:text-base text-xs text-center  break-words px-12 md:px-0">
               0xDc49590964ba35e559d5eB129F53c53e2ac7E558
