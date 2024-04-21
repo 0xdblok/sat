@@ -57,7 +57,7 @@ export default function Hero() {
             invention, Bitcoin, in the day of the halving.
           </p>
           <div className="flex justify-center ">
-            <Image className="" src={sol} alt="" width={40} height={40} />
+            <Image className="" src={sol} alt="" width={100} height={100} />
           </div>{" "}
         </div>
       </div>
