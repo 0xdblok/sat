@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Nav() {
   return (
     <div>
-      <div className="flex px-16 pt-8 w-full">
+      <div className="flex md:px-16 px-2  md:pt-8 w-full">
         {" "}
         <Image
           className=""
