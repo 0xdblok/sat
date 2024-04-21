@@ -16,7 +16,7 @@ export default function Hero() {
             <a href="">
               {" "}
               <Image
-                className=""
+                className="https://x.com/nakamotobase"
                 src="https://fatherofbitcoin.xyz/images/13e466c6f162b9abfc3152e736a27f2e.svg"
                 alt=""
                 width={16}
