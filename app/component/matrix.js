@@ -16,7 +16,7 @@ export default function Matrix() {
           </p>
           <div className="flex justify-center pt-4">
             <a
-              href="https://app.uniswap.org/swap?outputCurrency=0xDc49590964ba35e559d5eB129F53c53e2ac7E558&chain=base"
+              href=""
               className="px-3 md:text-base text-xs py-2 font-semibold bg-black rounded-2xl text-white">
               {" "}
               BUY $BITCOIN
