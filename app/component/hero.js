@@ -8,7 +8,7 @@ import x from "../asset/x.png";
 import xx from "../asset/xx.png";
 export default function Hero() {
   return (
-    <div>
+    <div className="pt-8">
       <div className="flex justify-between gap-20 px-6 ">
         <div className="w-1/2">
           {" "}
@@ -18,7 +18,7 @@ export default function Hero() {
           <div className="flex gap-4 justify-center">
             <a href="https://x.com/zknakamoto/">
               {" "}
-              <Image className={x} src="" alt="" width={16} height={16} />
+              <Image className="" src={x} alt="" width={18} height={18} />
             </a>
 
             <a href="https://syncswap.xyz/swap?inputCurrency=0x48D94d605532625D05266349CEe4d707596E03ED&outputCurrency=0x5aea5775959fbc2557cc8789bc1bf90a239d9a91">

@@ -11,7 +11,6 @@ import blank from "./asset/blank.png";
 export default function Home() {
   return (
     <div className="px-6 md:px-12 ">
-      <Nav />
       <Hero />
       <div className="w-full">
         {" "}
