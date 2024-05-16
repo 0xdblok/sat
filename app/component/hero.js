@@ -16,25 +16,13 @@ export default function Hero() {
           <div className="flex gap-4 justify-center">
             <a href="https://x.com/zknakamoto/">
               {" "}
-              <Image
-                className=""
-                src=
-                alt=""
-                width={16}
-                height={16}
-              />
+              <Image className="" src="" alt="" width={16} height={16} />
             </a>
             <a href="">
               {" "}
-              <Image
-                className=""
-                src=""
-                alt=""
-                width={16}
-                height={16}
-              />
+              <Image className="" src="" alt="" width={16} height={16} />
             </a>
-            <a href="">
+            <a href="https://syncswap.xyz/swap?inputCurrency=0x48D94d605532625D05266349CEe4d707596E03ED&outputCurrency=0x5aea5775959fbc2557cc8789bc1bf90a239d9a91">
               {" "}
               <Image className="" src={sync} alt="" width={16} height={16} />
             </a>
