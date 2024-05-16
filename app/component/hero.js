@@ -18,7 +18,7 @@ export default function Hero() {
               {" "}
               <Image
                 className=""
-                src="https://fatherofbitcoin.xyz/images/13e466c6f162b9abfc3152e736a27f2e.svg"
+                src=
                 alt=""
                 width={16}
                 height={16}
@@ -28,7 +28,7 @@ export default function Hero() {
               {" "}
               <Image
                 className=""
-                src="https://fatherofbitcoin.xyz/images/d16ed99d2ab1743d89aaf5fbf6bec303.svg"
+                src=""
                 alt=""
                 width={16}
                 height={16}
