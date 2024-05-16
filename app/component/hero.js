@@ -3,6 +3,7 @@ import Image from "next/image";
 import hero from "../asset/hero.png";
 import sol from "../asset/sol.png";
 import dex from "../asset/dex.png";
+import sync from "../asset/sync.png";
 export default function Hero() {
   return (
     <div>
@@ -35,15 +36,9 @@ export default function Hero() {
             </a>
             <a href="">
               {" "}
-              <Image
-                className=""
-                src="https://fatherofbitcoin.xyz/images/c39a291ab3f71adbe7daf4fcb4e93347.svg"
-                alt=""
-                width={16}
-                height={16}
-              />
+              <Image className="" src={sync} alt="" width={16} height={16} />
             </a>
-            <a href="">
+            <a href="https://dexscreener.com/zksync/0x2ee93371081a1e3b3156bee13ae98f00bae1b8bb">
               {" "}
               <Image className="" src={dex} alt="" width={18} height={18} />
             </a>
