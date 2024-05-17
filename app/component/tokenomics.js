@@ -39,7 +39,13 @@ export default function Tokenomics() {
           </p>
           <div className="">
             {" "}
-            <Image className="" src={ad} alt="" width={460} height={460} />{" "}
+            <Image
+              className=""
+              src={addd}
+              alt=""
+              width={460}
+              height={460}
+            />{" "}
           </div>
         </div>
       </div>
