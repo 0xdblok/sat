@@ -7,6 +7,7 @@ import sync from "../asset/sync.png";
 import base from "../asset/base.png";
 import x from "../asset/x.png";
 import xx from "../asset/xx.png";
+import uni from "../asset/uni.png";
 export default function Hero() {
   return (
     <div className="pt-8">
@@ -24,11 +25,11 @@ export default function Hero() {
 
             <a href="">
               {" "}
-              <Image className="" src={sync} alt="" width={16} height={16} />
+              <Image className="" src={uni} alt="" width={18} height={18} />
             </a>
             <a href="">
               {" "}
-              <Image className="" src={dex} alt="" width={18} height={18} />
+              <Image className="" src={dex} alt="" width={19} height={19} />
             </a>
           </div>
           <h1 className="pt-2 text-2xl font-bold text-[#FF914D] md:text-4xl ">
