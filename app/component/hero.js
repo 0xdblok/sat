@@ -23,7 +23,7 @@ export default function Hero() {
               <Image className="" src={x} alt="" width={18} height={18} />
             </a>
 
-            <a href="">
+            <a href="https://app.uniswap.org/swap?outputCurrency=0x255a08E741B6eF5502129e4dB1a30fFDBC2B90D7&chain=base">
               {" "}
               <Image className="" src={uni} alt="" width={18} height={18} />
             </a>
