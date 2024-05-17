@@ -27,7 +27,7 @@ export default function Hero() {
               {" "}
               <Image className="" src={uni} alt="" width={18} height={18} />
             </a>
-            <a href="">
+            <a href="https://dexscreener.com/base/0x62571ae7231ffd62784d46d4e8849a7cba4ccf9a">
               {" "}
               <Image className="" src={dex} alt="" width={19} height={19} />
             </a>
