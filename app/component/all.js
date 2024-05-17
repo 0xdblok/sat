@@ -20,7 +20,7 @@ export default function All() {
           </p>
           <div className="flex pt-2 justify-center">
             <a
-              href="https://dexscreener.com/zksync/0x2ee93371081a1e3b3156bee13ae98f00bae1b8bb"
+              href=""
               className="px-3 text-xs md:text-base py-2 font-semibold bg-[#FF914D] rounded-2xl text-white">
               {" "}
               CHART

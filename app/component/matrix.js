@@ -16,7 +16,7 @@ export default function Matrix() {
           </p>
           <div className="flex justify-center pt-4">
             <a
-              href="https://syncswap.xyz/swap?inputCurrency=0x48D94d605532625D05266349CEe4d707596E03ED&outputCurrency=0x5aea5775959fbc2557cc8789bc1bf90a239d9a91"
+              href=""
               className="px-3 md:text-base text-xs py-2 font-semibold bg-black rounded-2xl text-white">
               {" "}
               BUY $BITCOIN
