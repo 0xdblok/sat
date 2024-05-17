@@ -38,7 +38,7 @@ export default function Tokenomics() {
             contract address
           </p>
           <div className="p-10 px-10 bg-[#FA813C] border-4 border-black rounded-xl">
-            <p className=" text-lg font-bold">
+            <p className=" text-lg font-sans font-bold">
               0x255a08E741B6eF5502129e4dB1a30fFDBC2B90D7
             </p>
           </div>
