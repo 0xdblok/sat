@@ -17,7 +17,7 @@ export default function Hero() {
         </div>
         <div className="text-center flex flex-col justify-center items-center  w-1/2">
           <div className="flex gap-4 justify-center">
-            <a href="">
+            <a href="https://x.com/base_nakamoto">
               {" "}
               <Image className="" src={x} alt="" width={18} height={18} />
             </a>
